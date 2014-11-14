@@ -1,0 +1,40 @@
+D
+T GE 10 100
+T Cisco 10 100
+T Adobe 10 100
+D
+V P
+T Apple 10 -100
+T VMWare 10 -100
+T Dell 10 -100
+T Deere 100 -10
+D
+V P
+T GE 20 40
+V P
+T Cisco 20 -40
+V P
+T Adobe 20 -150
+D
+V P
+V X
+T GE 5 -140
+V P
+D
+T Deere 10 -100
+D
+T Apple 20 50
+V P
+T VMWare 20 150
+V P
+T Dell 5 +150
+D
+V P
+D
+D
+V T
+S X
+B ABC 10 10
+V P
+Q
+Don't read down here!
