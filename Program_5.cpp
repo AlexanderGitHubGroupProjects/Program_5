@@ -5,8 +5,8 @@
 // Course:  CS 1430, Section 03
 //
 // Purpose:	This program keeps track of the transactions of a Day 
-//			Trader (DT). The DT constantly buys and sells stocks. The 
-//			DT can also sell a stock they don’t have (sell short). 
+//		Trader (DT). The DT constantly buys and sells stocks. The 
+//			DT can also sell a stock they donâ€™t have (sell short). 
 //			This program keeps track of all stocks: update when bought 
 //			or sold, added if not on the list, and regular updates on
 //			stocks. If the number of stocks become zero, it is removed.
